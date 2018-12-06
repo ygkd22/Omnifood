@@ -1,2 +1,2 @@
 # Omnifood
-Omnifood  is an organic food delivvery by subscription wb site.
+Omnifood  is an organic food delivery by subscription web site.
